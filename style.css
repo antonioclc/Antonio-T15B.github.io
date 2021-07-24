@@ -23,18 +23,4 @@ strong {
 }
 .skills3 {
     font-size: 100%;    
-}
-
-.rita {
-    border: 5px solid rgb(219, 98, 118);
-    font-weight: 900;
-    background-color: pink;
-}
-.rita:active {
-    border: 5px solid rgb(255, 0, 43);
-    background-color: rgb(255, 0, 43);
-}
-.teamo {
-    
-}
-   
+}   
