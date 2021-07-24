@@ -24,3 +24,21 @@ strong {
 .skills3 {
     font-size: 100%;    
 }   
+.dota {
+    margin-top: 30px;
+    border: 3px solid #ffffff50;
+    padding: 15px 25px;
+    margin: 10px 30px;
+    border-radius: 5px;
+    cursor: pointer;
+    width: fit-content;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    transition-duration: .2s;
+    box-sizing: border-box;
+    font-family: Radiance, sans-serif;
+    color: inherit;
+    font-family: Roboto;
+    font-weight: 500;
+}
