@@ -1,0 +1,40 @@
+h1 {
+    font-family: Roboto;
+    font-weight: 500;
+}
+
+#descricao {
+    font-family: Roboto;
+    font-weight: 400;
+}
+
+body {
+    background-color: #83ECA1;
+}
+
+strong {
+    text-decoration: underline;
+}
+.skills1 {
+    font-size: 160%;    
+}
+.skills2 {
+    font-size: 130%;    
+}
+.skills3 {
+    font-size: 100%;    
+}
+
+.rita {
+    border: 5px solid rgb(219, 98, 118);
+    font-weight: 900;
+    background-color: pink;
+}
+.rita:active {
+    border: 5px solid rgb(255, 0, 43);
+    background-color: rgb(255, 0, 43);
+}
+.teamo {
+    
+}
+   
