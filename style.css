@@ -24,21 +24,26 @@ strong {
 .skills3 {
     font-size: 100%;    
 }   
-.dota {
-    margin-top: 30px;
-    border: 3px solid #ffffff50;
-    padding: 15px 25px;
-    margin: 10px 30px;
-    border-radius: 5px;
-    cursor: pointer;
-    width: fit-content;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
-    transition-duration: .2s;
-    box-sizing: border-box;
-    font-family: Radiance, sans-serif;
-    color: inherit;
-    font-family: Roboto;
-    font-weight: 500;
+.nomecompleto {
+        height: 300px;
+        text-align: center;
+}
+#minhafoto {
+    float: left;
+    border: 5px solid rgb(73, 73, 187);
+    border-radius:50%;
+    border-style: double;
+    margin: 10px;
+}
+#descricao {
+    padding-top: 45px;
+    margin: 25px;
+    
+}
+.descricao {
+    
+}
+.listaskills li:nth-child(even) {
+    background-color: rgb(74, 200, 200);
+    
 }
