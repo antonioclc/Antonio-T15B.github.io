@@ -1,0 +1,38 @@
+.icones {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+
+.meupadrao {
+    display: flex;
+    justify-content: space-around;
+    padding: 40px;
+}
+
+#descricao {
+    width: 500px;
+    height: 200px;
+    border-radius: 20px;
+}
+
+#icones {
+    display: flex;
+    align-items: center;
+    width: 200px;
+    margin-right: 25px;
+    justify-content: space-around;
+}
+
+#nevagecao {
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+#trybe, #foto {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
