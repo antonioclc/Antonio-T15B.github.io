@@ -1,0 +1,185 @@
+* {
+  margin: 0;
+}
+
+#email, #password {
+  border-radius: 15px;
+  padding: 5px;
+  margin: 0 5px;
+  letter-spacing: 3px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+#entrar {
+  border-radius: 15px;
+  margin-right: 10px;
+}
+
+#evaluation-form {
+  display: flex;
+  flex-direction: column;
+  width: 675px;
+}
+
+#trybewarts-forms-logo {
+  height: 500px;
+}
+
+#trybewarts-header-title {
+  font-family: harrypotter;
+  font-size: 60px;
+  margin: 0;
+  padding-top: 15px;
+  letter-spacing: 10px;
+  color: rgb(77, 77, 77);
+}
+
+#form-avaliacao {
+  margin-bottom: 25px;
+}
+
+#form-avaliacao input {
+  padding: 10px 50px;
+  margin: 10px 30px;
+  border-radius: 15px;
+}
+
+#form-avaliacao select {
+  padding: 10px 58px;
+  margin: 10px 30px;
+  border-radius: 15px;
+
+}
+
+#form-parte2 {
+  display: flex;
+  justify-content: space-evenly;
+  margin: 25px 0;
+}
+
+#label-family, #label-content, #label-rate, .textarea {
+  font-family: fantasy;
+  letter-spacing: 1px;
+  margin-bottom: 10px;
+}
+
+#contents {
+  margin-left: 40px;
+}
+
+#avaliacao {
+  margin-top: 25px;
+}
+
+#areatexto {
+  display: flex;
+  flex-direction: column;
+  margin-top: 25px;
+}
+
+#counter {
+  position: fixed;
+  align-self: flex-end;
+  margin-top: 170px;
+  margin-right: 15px;
+}
+
+#informacoes {
+  margin: 15px 0;
+}
+
+#submit-btn {
+  border-radius: 15px;
+  width: 250px;
+  height: 42px;
+  align-self: center;
+  background-color:rgb(77, 77, 77);
+  color: antiquewhite;
+  font-size: 40px;
+  font-family: harrypotter;
+}
+
+#house {
+  background-color:rgb(77, 77, 77);
+  color: antiquewhite;
+}
+
+.inputs1 {
+  display: flex;
+  padding: 0 25px;  
+  margin-right: 15px;
+}
+
+.inputs1 input {
+  margin: 5px;
+}
+
+.inputs2 {
+  display: flex; 
+  flex-wrap: wrap;
+}
+
+.inputs2 input {
+  margin: 0 6px;
+}
+
+.inputs3 {
+  margin-top: 10px;
+  font-family: harrypotter;
+  font-size: larger;
+}
+
+.inputs3 input {
+  margin-right: 10px;
+}
+
+.trybewarts-header-logo {
+  width: 60px;
+  padding: 5px;
+}
+
+.label {
+  display: flex;
+  flex-direction: column;
+}
+
+.header {
+  display: flex;
+  background-color: rgb(50, 167, 145);
+  justify-content: space-between;
+  align-items: center;
+  border: 5px solid rgb(54, 51, 51);
+  margin-bottom: 25px;
+}
+
+.trybewarts-login {
+  display: flex;
+}
+
+main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(50, 167, 145);
+  height: 60px;
+  margin-top: 25px;
+}
+
+@font-face {
+  font-family: harrypotter;
+  src: url(HARRYP__.TTF);
+}
+
+form h2 {
+  font-family: harrypotter;
+  font-size: 50px;
+  letter-spacing: 3px;
+  align-self: center;
+  margin-bottom: 10px;
+}
